@@ -3,7 +3,7 @@ file = 'example.txt';
 file = 'input.txt';
 txt = read_lines(file);  % inhale the file
 
-%% part 1
+%% part 1 and 2
 lights1 = false(1000, 1000);
 lights2 = uint16(lights1);
 
